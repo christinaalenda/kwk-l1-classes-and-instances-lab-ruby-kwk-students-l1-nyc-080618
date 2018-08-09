@@ -6,8 +6,8 @@ def name
   @name = name
 end
 
-def name=(new.name)
-  @fido = new.name
+def name=(new.fido)
+  @name = new.fido
 end
 
 end
