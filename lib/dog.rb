@@ -9,8 +9,8 @@ def name
 end
 end 
 
-def name=(new.fido)
-  @name = new.fido
+def name=(new.name)
+  @name = new.name
 end
 
 end
