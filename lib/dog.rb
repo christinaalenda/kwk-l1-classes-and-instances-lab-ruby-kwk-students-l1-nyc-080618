@@ -1,14 +1,13 @@
 # dog.rb
 class Dog
   def initialize(name)
-    @name = fido
 end
 def name
-  return @name
+  @name = fido
 end
 
-def name=(new.name)
-  @name = new.name
+def name=(new_name)
+  @name = new_name
 end
 
 end
