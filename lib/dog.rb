@@ -1,4 +1,4 @@
 # dog.rb
 class Dog
-  fido = dog_new
+  fido = dog.new
 end
