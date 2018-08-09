@@ -4,5 +4,5 @@ class Dog
   @name = name
 end
 def name
-  return name
+  return name = fido
 end
