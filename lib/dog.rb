@@ -6,8 +6,8 @@ def name
   @name = fido
 end
 
-def name=(Dog.new)
-  @name = Dog.new
+def name=(new.Dog)
+  @name = new.Dog
 end
 
 end
