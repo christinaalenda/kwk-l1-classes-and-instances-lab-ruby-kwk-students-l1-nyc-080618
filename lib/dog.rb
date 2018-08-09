@@ -3,5 +3,11 @@ class Dog
   def initialize(name)
 end
 def name
-  return @name = fido
+  @name = name
+end
+
+def name=(new_name)
+  @name = new_name
+end
+
 end
