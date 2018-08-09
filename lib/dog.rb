@@ -3,11 +3,11 @@ class Dog
   def initialize(name)
 end
 def name
-  @name = Fido
+  @name = fido
 end
 
-def name=(new_name)
-  @name = new_name
+def name=(Dog.new)
+  @name = Dog.new
 end
 
 end
