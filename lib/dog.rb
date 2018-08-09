@@ -1,10 +1,13 @@
 # dog.rb
 class Dog
   def initialize(name)
+    @name = fido
+end
 end
 def name
-  @name = name
+  return @name
 end
+end 
 
 def name=(new.fido)
   @name = new.fido
